@@ -47,8 +47,12 @@ If the control input changes to AB = 10, then all the gates are restricted excep
  
  
 ### Procedure
-/* write all the steps invloved */
-
+## Step1:- Open Quartus II Software. 
+## Step2:- Create a new project such that the name of the project is used for name of the module. 
+## Step3:- Develop the program for both Multiplexer and De-Multiplexer. 
+## Step4:- Run the RTL Simulation. 
+## Step5:- Simulate the timing Diagram. 
+## Step6:- Validate the outputs. 
 
 
 ### PROGRAM 
